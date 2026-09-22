@@ -1,0 +1,9 @@
+{
+  "name": "qa-plugin",
+  "version": "1.0.0",
+  "description": "Tests for the qa-plugin's hook scripts (not part of the plugin manifest itself).",
+  "private": true,
+  "scripts": {
+    "test": "node --test"
+  }
+}
