@@ -1,0 +1,5 @@
+{
+  "name": "qa-plugin",
+  "description": "A set of Claude Code tools that assess the quality of code before it's added to a repo, covering review, testing, and linting.",
+  "version": "1.0.0"
+}

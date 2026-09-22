@@ -1,0 +1,14 @@
+{
+  "name": "qa-plugin-marketplace",
+  "owner": {
+    "name": "user",
+    "email": "test123@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "qa-plugin",
+      "source": "./",
+      "description": "A set of Claude Code tools that assess the quality of code before it's added to a repo, covering review, testing, and linting."
+    }
+  ]
+}
